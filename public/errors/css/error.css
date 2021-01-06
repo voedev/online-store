@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+code {
+    font-size: 18px;
+    font-family: Consolas, sans-serif;
+    color: #e83e8c;
+    word-break: break-word;
+}
+div{
+    margin: 20px 0;
+}
+b{
+    padding-right: 10px;
+}
